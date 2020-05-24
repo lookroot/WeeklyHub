@@ -7,4 +7,4 @@
   
 ## 目录
 
-- [第一周-前端工具篇](https://github.com/lookroot/vuestu/tree/master/)
+- [第一周-前端工具篇](https://github.com/lookroot/WeeklyHub/blob/master/doc/1-%E5%89%8D%E7%AB%AF%E5%B7%A5%E5%85%B7%E7%AF%87.md)
