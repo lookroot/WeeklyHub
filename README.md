@@ -12,3 +12,4 @@
 - [第二周-前端面试学习篇](https://github.com/lookroot/WeeklyHub/blob/master/doc/3-前端面试学习篇.md)
 - [第四周-项目实战篇，前后端都有](https://github.com/lookroot/WeeklyHub/blob/master/doc/4-项目实战篇.md)
 - [第五周-Java学习面试篇](https://github.com/lookroot/WeeklyHub/blob/master/doc/5-Java学习面试篇.md)
+- [第六周-Vue专题篇](https://github.com/lookroot/WeeklyHub/blob/master/doc/6-Vue专题篇.md)
